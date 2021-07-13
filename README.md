@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Linux and all security stuffs**
 
-- ⚡ Fun fact **I Fuck with WINDOWS**
+- ⚡ Proficient at **OSINT, Network & System penetration testing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
