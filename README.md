@@ -12,7 +12,17 @@
 
 - 💬 Ask me about **Linux and all security stuffs**
 
-- ⚡ Proficient at **OSINT, Network & System penetration testing**
+- 💠 Proficient at **OSINT, Networks, Systems & Web Application penetration testing**
+ 
+* Penetration Testing Suite :
+ * Networks & Systems
+ * Web Applications
+ * Wireless
+ * Active Directory 
+ * Cloud (AWS & Azure) 
+ * APIs
+ * Microservices
+ * Containers 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
