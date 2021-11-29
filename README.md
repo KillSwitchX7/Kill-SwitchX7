@@ -54,7 +54,7 @@
 <h3 align="left">Cybersecurity Labs profile, educational platforms ...</h3>
 <p align="left">
 <a href="https://app.hackthebox.com/profile/667067" target="__blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.RlztyA6EpNjsyjWRDSx-ewHaHa%26pid%3DApi&f=1" alt="Hack The Box" height="40" width="40" /></a>
-<a href="https://tryhackme.com/p/KillSwitchX7" target="__blank"><img align="center" src="https://miro.medium.com/max/1400/1*VcqP8AQ7utxPjy8Hoq5mqw.png" alt="KillSwitchX7" height="45" width="75" /></a>
+<a href="https://tryhackme.com/p/KillSwitchX7" target="__blank"><img align="center" src="https://muirlandoracle.co.uk/wp-content/uploads/2020/01/THM-Header.png" alt="KillSwitchX7" height="45" width="100" /></a>
 <h3 align="left">Languages and Tools:</h3>
 
  </p>
