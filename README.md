@@ -38,8 +38,8 @@
 <!--Ubuntu -->
 </a><a href="https://ubuntu.com/" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="40" height="40"/> </a>
 <!--Metasploit -->
-<a href="https://www.metasploit.com/" target="__blank"> <img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2_400x400.png" alt="Metasploit" width="60" height="40"/> </a>
+<a href="https://www.metasploit.com/" target="__blank"> <img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2_400x400.png" alt="Metasploit" width="55" height="40"/> </a>
 <!--Burp Suite -->
 <a href="https://portswigger.net/" target="__blank"> <img src="https://user-images.githubusercontent.com/17954762/47567241-4b4f2080-d92e-11e8-830c-b5db21beab69.png" alt="Burp Suite" width="40" height="40"/> </a>
-<a href="https://github.com/cobbr/Covenant" target="__blank"> <img src="https://raw.githubusercontent.com/wiki/cobbr/Covenant/covenant.png" alt="Covenant" width="100" height="40"/> </a>
+<a href="https://github.com/cobbr/Covenant" target="__blank"> <img src="https://raw.githubusercontent.com/wiki/cobbr/Covenant/covenant.png" alt="Covenant" width="120" height="40"/> </a>
  </p>
