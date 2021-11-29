@@ -46,5 +46,5 @@
 <a href="https://github.com/vanhauser-thc/thc-hydra" target="__blank"> <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Thc-Hydra" width="40" height="50"/> </a>
 <a href="https://ghidra-sre.org/" target="__blank"> <img src="https://ghidra-sre.org/images/GHIDRA_1.png" alt="Ghidra" width="60" height="40"/> </a>
 <a href="https://nmap.org/" target="__blank"> <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="Nmap" width="40" height="50"/> </a>
-<a href="https://nmap.org/" target="__blank"> <img scr="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Lyqqi0rwbDzkXzp0Z-Eb4AAAAA%26pid%3DApi&f=1" alt="NMAP" width="45" height="50"/> </a>
+<a href="https://nmap.org/" target="__blank"> <img scr="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.piAHXMJqVubBcAZCZNCaUQHaDm%26pid%3DApi&f=1" alt="NMAP" width="45" height="50"/> </a>
  </p>
