@@ -44,5 +44,5 @@
 <a href="https://github.com/cobbr/Covenant" target="__blank"> <img src="https://raw.githubusercontent.com/wiki/cobbr/Covenant/covenant.png" alt="Covenant" width="120" height="40"/> </a>
 <a href="https://www.wireshark.org/" target="__blank"> <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="Wireshark" width="40" height="40"/> </a>
 <a href="https://github.com/vanhauser-thc/thc-hydra" target="__blank"> <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Thc-Hydra" width="40" height="40"/> </a>
-<a href="https://ghidra-sre.org/" target="__blank"> <img src="https://ghidra-sre.org/images/GHIDRA_1.png" alt="Ghidra" width="40" height="40"/> </a>
+<a href="https://ghidra-sre.org/" target="__blank"> <img src="https://ghidra-sre.org/images/GHIDRA_1.png" alt="Ghidra" width="60" height="40"/> </a>
  </p>
