@@ -49,6 +49,12 @@
 <a href="https://sqlmap.org/" target="__blank"> <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="Sqlmap" width="70" height="50"/> </a>
 <a href="https://github.com/BC-SECURITY/Empire" target="__blank"> <img src="https://www.kali.org/tools/powershell-empire/images/powershell-empire-logo.svg" alt="PoswerShell-Empire" width="70" height="50"/> </a>
 <a href="https://github.com/Veil-Framework/Veil" target="__blank"> <img src="https://www.kali.org/tools/veil/images/veil-logo.svg" alt="Veil" width="55" height="50"/> </a>
-<a href="https://www.cobaltstrike.com/" target="__blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WHZR8MZvfHShzygKszCwRwHaBw%26pid%3DApi&f=1" alt="Cobalt Strike" width="125" height="50"/> </a>
+<a href="https://www.cobaltstrike.com/" target="__blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WHZR8MZvfHShzygKszCwRwHaBw%26pid%3DApi&f=1" alt="Cobalt Strike" width="135" height="50"/> </a>
+ 
+<h3 align="left">Cybersecurity Labs profile, educational platforms ...</h3>
+<p align="left">
+<a href="https://app.hackthebox.com/profile/667067" target="__blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.RlztyA6EpNjsyjWRDSx-ewHaHa%26pid%3DApi&f=1" alt="Hack The Box" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/siddhartha-shree-kaushik/" target="__blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="KillSwitchX7" height="30" width="40" /></a>
+<h3 align="left">Languages and Tools:</h3>
 
  </p>
