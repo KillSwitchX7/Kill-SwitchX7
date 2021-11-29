@@ -48,6 +48,7 @@
 <a href="https://nmap.org/" target="__blank"> <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="Nmap" width="40" height="60"/> </a>
 <a href="https://sqlmap.org/" target="__blank"> <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="Sqlmap" width="70" height="50"/> </a>
 <a href="https://github.com/BC-SECURITY/Empire" target="__blank"> <img src="https://www.kali.org/tools/powershell-empire/images/powershell-empire-logo.svg" alt="PoswerShell-Empire" width="70" height="50"/> </a>
+<a href="https://github.com/Veil-Framework/Veil" target="__blank"> <img src="https://www.kali.org/tools/veil/images/veil-logo.svg" alt="Veil" width="55" height="50"/> </a>
 
 
  </p>
