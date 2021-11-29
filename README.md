@@ -41,5 +41,5 @@
 <a href="https://www.metasploit.com/" target="__blank"> <img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2_400x400.png" alt="Metasploit" width="40" height="40"/> </a>
 <!--Burp Suite -->
 <a href="https://portswigger.net/" target="__blank"> <img src="https://user-images.githubusercontent.com/17954762/47567241-4b4f2080-d92e-11e8-830c-b5db21beab69.png" alt="Burp Suite" width="40" height="40"/> </a>
-<a href="https://github.com/cobbr/Covenant" target="__blank"> <img src="https://raw.githubusercontent.com/wiki/cobbr/Covenant/covenant.png" alt="Covenant" width="40" height="40"/> </a>
+<a href="https://github.com/cobbr/Covenant" target="__blank"> <img src="https://raw.githubusercontent.com/wiki/cobbr/Covenant/covenant.png" alt="Covenant" width="85" height="40"/> </a>
  </p>
