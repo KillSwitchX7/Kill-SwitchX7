@@ -47,6 +47,7 @@
 <a href="https://ghidra-sre.org/" target="__blank"> <img src="https://ghidra-sre.org/images/GHIDRA_1.png" alt="Ghidra" width="60" height="40"/> </a>
 <a href="https://nmap.org/" target="__blank"> <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="Nmap" width="40" height="60"/> </a>
 <a href="https://sqlmap.org/" target="__blank"> <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="Sqlmap" width="70" height="50"/> </a>
+<a href="https://github.com/BC-SECURITY/Empire" target="__blank"> <img src="https://www.kali.org/tools/powershell-empire/images/powershell-empire-logo.svg" alt="PoswerShell-Empire" width="60" height="40"/> </a>
 
 
  </p>
