@@ -61,7 +61,7 @@
 <a href="https://tryhackme.com/p/KillSwitchX7" target="__blank"><img align="center" src="https://muirlandoracle.co.uk/wp-content/uploads/2020/01/THM-Header.png" alt="Try Hack Me" height="55" width="200" /></a>
 <a href="https://pentesterlab.com/profile/KillSwitchX7" target="__blank"> <img align="center" src="https://pentesterlab.com/newdesign/imgs/logo.png" alt="PentesterLab" height="55" width="235" /></a>
 <a href="https://blueteamlabs.online/public/user/KIllSwitchX7" target="__blank"> <img align="center" src="https://blueteamlabs.online/images/logo.png" alt="Blue Team Labs Online" height="80" width="80" /> </a>
-<a href="https://app.pluralsight.com/profile/KillSwitchX7" target="__blank"> <img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.0bEyttRTr8ns7q3P9FoSBQHaHa%26pid%3DApi&f=1" alt="Pluralsight" height="60" width="60" /> </a> 
+<a href="https://app.pluralsight.com/profile/KillSwitchX7" target="__blank"> <img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.0bEyttRTr8ns7q3P9FoSBQHaHa%26pid%3DApi&f=1" alt="Pluralsight" height="80" width="80" /> </a> 
 
 
  </p>
