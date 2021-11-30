@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://twitter.com/KillSwitchX7" alt="KillSwitchX7">KillSwitchX7</h1>
-<h3 align="center">Cyber Security Enthusiast</h3>
+<h3 align="center">Cyber Security Professional</h3>
 
 <br/>
 <br/>
@@ -33,6 +33,7 @@
 <p align="left"> <a href="https://www.linux.org/" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <!--Python -->
 <a href="https://pythonbasics.org" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+<a href="https://www.ruby-lang.org/en/" target="__blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.pQoUr6TwyRHnRalY8uYqIAHaGU%26pid%3DApi&f=1" alt="Ruby" width="45" height="40"/> </a>
 <!--Bash -->
 <a href="https://www.tutorialspoint.com/unix/index.htm" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" alt="bash scriprting" width="40" height="40"/>
 <!--Ubuntu -->
@@ -41,8 +42,11 @@
 <a href="https://www.metasploit.com/" target="__blank"> <img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2_400x400.png" alt="Metasploit" width="55" height="40"/> </a>
 <!--Burp Suite -->
 <a href="https://portswigger.net/" target="__blank"> <img src="https://user-images.githubusercontent.com/17954762/47567241-4b4f2080-d92e-11e8-830c-b5db21beab69.png" alt="Burp Suite" width="40" height="40"/> </a>
+<!--Covenant --> 
 <a href="https://github.com/cobbr/Covenant" target="__blank"> <img src="https://raw.githubusercontent.com/wiki/cobbr/Covenant/covenant.png" alt="Covenant" width="120" height="40"/> </a>
+<!-- Wireshark --> 
 <a href="https://www.wireshark.org/" target="__blank"> <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="Wireshark" width="40" height="40"/> </a>
+<!-- Thc-Hydra --> 
 <a href="https://github.com/vanhauser-thc/thc-hydra" target="__blank"> <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Thc-Hydra" width="40" height="50"/> </a>
 <a href="https://ghidra-sre.org/" target="__blank"> <img src="https://ghidra-sre.org/images/GHIDRA_1.png" alt="Ghidra" width="60" height="40"/> </a>
 <a href="https://nmap.org/" target="__blank"> <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="Nmap" width="40" height="60"/> </a>
