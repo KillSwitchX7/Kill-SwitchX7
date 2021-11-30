@@ -34,6 +34,7 @@
 <!--Python -->
 <a href="https://pythonbasics.org" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
 <a href="https://www.ruby-lang.org/en/" target="__blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.pQoUr6TwyRHnRalY8uYqIAHaGU%26pid%3DApi&f=1" alt="Ruby" width="45" height="40"/> </a>
+<a href="" target="__blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.USxKolB7x1RzNPYNtnZX_gHaGx%26pid%3DApi&f=1" width="45" height="45"/> </a>
 <!--Bash -->
 <a href="https://www.tutorialspoint.com/unix/index.htm" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" alt="bash scriprting" width="40" height="40"/>
 <!--Ubuntu -->
